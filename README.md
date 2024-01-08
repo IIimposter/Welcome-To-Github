@@ -1,14 +1,14 @@
 # Welcome-To-Github
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Mayur Sonar! 👋
 
-Welcome to my GitHub profile! I'm a [Your Profession/Role] passionate about [Your Interests/Expertise]. Here you'll find a variety of projects that showcase my skills and interests.
+Welcome to my GitHub profile! I'm a Fresher passionate about learning new skills . Here you'll find a variety of projects that showcase my skills and interests.
 
 ## About Me
 
-- 💼 [Current Job/Position]
+- 💼 Fresher
 - 🌐 [Personal Website or Portfolio (if applicable)]
-- 📫 [Email Address]
-- 📱 [LinkedIn Profile]
+- 📫 sonarmayur2000@gmail.com
+- 📱 [LinkedIn Profile]](https://www.linkedin.com/in/mayur-sonar-701489245/)
 
 ## Projects
 
