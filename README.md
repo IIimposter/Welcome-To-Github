@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm a Fresher passionate about learning new skills
 ## About Me
 
 - 💼 Fresher
-- 🌐 [Personal Website or Portfolio (if applicable)]
 - 📫 sonarmayur2000@gmail.com
 - 📱 [LinkedIn Profile]](https://www.linkedin.com/in/mayur-sonar-701489245/)
 
@@ -14,31 +13,30 @@ Welcome to my GitHub profile! I'm a Fresher passionate about learning new skills
 
 Here are some highlights of the projects you'll find in this repository:
 
-### [Project 1 Name]
+### FPS shooting Game
 
-[Short description of the project. What is it about? What technologies does it use?]
+This project was created in SE in the Computer Graphics subject mini project.
+This project consisted a FPS person who can walk, run, jump, reload, die, and kill his enemies.
+This project was made with the help of the unity engine.
 
-#### How to Use
 
-[Instructions on how to use/install the project.]
+### Indoor Navigation 
 
-### [Project 2 Name]
+It’s an application which will help user to navigate in the indoors like Mall, Hospital, College
+campus, Company etc. without asking anyone and wasting time.
+This project was made with the help of Unity Engine.
 
-[Short description of the project. What is it about? What technologies does it use?]
 
-#### How to Use
-
-[Instructions on how to use/install the project.]
 
 ## Skills
 
-- [Skill 1]
-- [Skill 2]
-- [Skill 3]
+- Python
+- Java
+- Cpp
 
 ## Connect with Me
 
-Feel free to connect with me on [LinkedIn], and check out my [website/portfolio] for more information about my work.
+Feel free to connect with me on [LinkedIn],
 
 If you have any questions, suggestions, or just want to say hi, feel free to reach out! 😊
 
