@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a Fresher passionate about learning new skills
 
 - 💼 Fresher
 - 📫 sonarmayur2000@gmail.com
-- 📱 [LinkedIn Profile]](https://www.linkedin.com/in/mayur-sonar-701489245/)
+- 📱 [LinkedIn Profile](https://www.linkedin.com/in/mayur-sonar-701489245/)
 
 ## Projects
 
